@@ -1,0 +1,1 @@
+group = "io.documentnode.epub4j"
